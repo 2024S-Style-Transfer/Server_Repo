@@ -66,6 +66,7 @@ class exampleImageServeTest {
 
         exampleImageServe = new exampleImageServe(webClientBuilder, baseUrl);
     }
+
 /*
     @Test
     void getImageResponse_Success() {
